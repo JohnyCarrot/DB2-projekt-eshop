@@ -1,0 +1,53 @@
+20.4.2022
+V Generate Scripte zmenené volenie adresy s fixne priradeným číslom na "nahodna ulica + nahodne číslo domu"
+V Generate Scripte zmenené generovanie mien z náhodné (meno + priezvisko) na náhodné meno + náhodné priezvisko
+27.04.2022
+V štatistike vyhľadávania pridaná kontrola vstupu
+Upravené vyhladavanie v štatistike tak, aby SQL bolo čo najčistejšie, resp čo najviac sa robilo na strane klienta a zároveň pridaná kontrola vstupu
+V zozname zákazníkov namiesto zobrazovania všetkých zákazníkov naraz, zobrazujem iba 10 na stranu a umožnujem sa pohybovať medzi stranami
+1.05.2022
+Pri aktualizícií zákazníka pridaná kontrola vstupu a sumarizácia zmien
+Pridaná kontrola vstupu v odstranovaní zákazníka
+Pridaná kontrola vstupu pri nastavovaní aktívneho užívateľa
+Ošetrený vstup pri pridávaní zákazníka
+Pridané "nad-menu"
+2.5.2022
+Pridané menu s produktami
+Pridaná možnosť pridať produkt
+Pridaná možnosť aktualizovať produkt
+4.5.2022
+Pridaná možnosť výpisu nakúpnych košíkov / produktov v nich
+Pridaná možnosť pridať nákup do košíku
+Pridaná možnosť odstrániť produkt s košíku
+Pridaná možnosť aktualizovať produkt v košíku
+Pridaná možnosť pridať košík
+Pridaná možnosť zmazať aktualny košík, pričom ak už žiadny neexistuje, vygeneruje sa "Sample košík" pre zachovanie funkcionality programu
+Pridaná možnosť premazať košík
+5.5.2022
+Opravené chyby v generácií nového košíka v prípade absencie košíka
+Pridané menu pre objednávky
+6.5.2022
+Pridaná možnosť vytvoriť objednávku
+11.5.2022
+Opravená chyba, kedy pri vytváraní objednávky sa nevystavila faktúra
+Pridaná možnosť zaplatiť objednávku
+Pridaná možnosť zrušiť objednávku
+Pridaná možnosť expedovať objednávku
+12.5.2022
+Opravené chyby pri platení a expedovaní objednávky
+Pridaná možnosť predajnosti produktov pri atrb_listoch
+13.5.2022
+Pridaná možnosť zobraziť  detail produktu
+Zmenený počet vygenerovaných atribútov v generate liste z 230 -> 1500
+Opravená chyba, kedy sa v detaile produktu zobrazovali niektoré atributy duplicitne
+Oprava štatistiky predajnosti produktov na želaný stav
+Odstránený zakomentovaný kód
+Pridaná dokumentácia
+
+
+
+
+
+
+
+

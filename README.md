@@ -1,2 +1,1 @@
-# DB2-projekt-eshop
-Databázy (2) E-shop
+# Databázy (2) E-shop
